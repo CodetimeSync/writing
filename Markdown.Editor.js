@@ -2,6 +2,9 @@
 
 // needs Markdown.Converter.js at the moment
 
+/**
+ * 関数1 
+ */
 
 (function () {
 
